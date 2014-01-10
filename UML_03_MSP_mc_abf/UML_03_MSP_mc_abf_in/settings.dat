@@ -8,7 +8,7 @@ area mask file  = ../../Data/0_Maskit_analyysialueet/Maski100/maski_umlr_eimeri_
 
 [Community analysis settings]
 load similarity matrix = 1
-connectivity similarity matrix file = UML_3_MSP_mc_abf_in/UML_conn_matrix.txt
+connectivity similarity matrix file = UML_03_MSP_mc_abf_in/UML_conn_matrix.txt
 apply to connectivity = 1
 community similarity matrix file =
 apply to representation = 0
