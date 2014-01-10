@@ -31,5 +31,5 @@ Codes in the names are interpreted as follows:
 
 ### Contributors
 
-+ Tuuli Toivoinen
++ Tuuli Toivonen
 + Joona Lehtomäki <joona.lehtomaki@gmail.com>
