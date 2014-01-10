@@ -24,7 +24,7 @@ Codes in the names are interpreted as follows:
 + **L** = Species data (**L**ajiaineistot)
 + **mc** = **m**atrix **c**onnectivity
 + **k** = Condition layer (**k**untokerros)
-+ **i** = Interaction connectivity, negative landuse (**i**nteraktiot)
++ **i** = **I**nteraction connectivity, negative landuse (**i**nteraktiot)
 + **HM1** = **H**ierarchical **m**ask 1 (Regional zoning)
 + **HM2** = **H**ierarchical **m**ask 2 (Protected areas)
 + **abf** = Additive benefit function
