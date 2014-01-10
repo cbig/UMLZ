@@ -1,0 +1,43 @@
+---
+!!map {
+  ? !!str "/var/run/media/jlehtoma/OSDisk/Data/UML_Z/ZProjects/UML_01_M_abf/UML_1_M_abf.bat"
+  : !!map {
+    ? !!str "ERROR"
+    : !!str "'Input run info file /var/run/media/jlehtoma/OSDisk/Data/UML_Z/ZProjects/UML_01_M_abf/UML_1_M_abf_out/UML_1_M_abf.run_info.txt\
+      \ does not exist'",
+    ? !!str "measured"
+    : !!float "106.0",
+  },
+  ? !!str "sys_info"
+  : !!seq [
+    !!map {
+      ? !!str "Report time"
+      : !!str "2014-01-10T11:22:28.469292",
+    },
+    !!map {
+      ? !!str "Uname"
+      : !!python/tuple [
+        !!str "Linux",
+        !!str "LH2-BIOTI25.site",
+        !!str "3.11.6-4-desktop",
+        !!str "#1 SMP PREEMPT Wed Oct 30 18:04:56 UTC 2013 (e6d4a27)",
+        !!str "x86_64",
+        !!str "x86_64",
+      ],
+    },
+    !!map {
+      ? !!str "Version"
+      : !!python/tuple [
+        !!str "openSUSE ",
+        !!str "13.1",
+        !!str "x86_64",
+      ],
+    },
+  ],
+  ? !!str "z_info"
+  : !!python/tuple [
+    !!str "3",
+    !!str "1",
+    !!str "9",
+  ],
+}

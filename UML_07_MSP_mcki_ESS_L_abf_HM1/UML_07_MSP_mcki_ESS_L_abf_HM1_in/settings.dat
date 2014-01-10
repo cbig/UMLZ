@@ -1,0 +1,24 @@
+[Settings]
+removal rule = 2
+warp factor = 2000
+edge removal = 1
+
+mask missing areas = 1
+area mask file  = ../../Data/0_Maskit_analyysialueet/Maski100/maski_umlr_eimeri_100m.tif
+
+use groups = 1
+groups file = UML_07_MSP_mcki_ESS_L_abf_HM1_in/UML_groups_v2.txt
+
+use condition layer = 1
+condition file = UML_07_MSP_mcki_ESS_L_abf_HM1_in/cond_list.txt
+
+use interactions = 1
+interaction file = UML_07_MSP_mcki_ESS_L_abf_HM1_in/interactions.txt
+
+use mask = 1
+mask file = ../../Data/4_Kaavoituskerrokset/Kaava/Yhdistelmakaava_aluevarauskoe_3tasoa_uml_100m.tif
+
+[Community analysis settings]
+load similarity matrix = 1
+connectivity similarity matrix file = UML_07_MSP_mcki_ESS_L_abf_HM1_in/UML_conn_matrix.txt
+apply to connectivity = 1
