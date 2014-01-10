@@ -20,7 +20,7 @@ Codes in the names are interpreted as follows:
 + **M** = Forests (**M**etsät)
 + **S** = Peatlands and wetlands (**S**uot ja kosteikot)
 + **P** = Agricultural areas (**P**ellot ja perinnebiotoopit)
-+ **ESS** = **E**co**s**ystem **s**ervices
++ **ESS** = **E**co **s**ystem **s**ervices
 + **L** = Species data (**L**ajiaineistot)
 + **mc** = **m**atrix **c**onnectivity
 + **k** = Condition layer (**k**untokerros)
