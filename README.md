@@ -1,7 +1,7 @@
 ## Zonation UML-tutorial 
 
-Data and setups from UML (Uudenmaanliitto). The data and setups in this project
-are meant for training purposes and do not represent real analysis.
+Data and setups from UML (Uudenmaanliitto). _The data and setups in this project
+are meant for training purposes and do not represent a full real-life analysis_.
 
 ## Variants
 
