@@ -7,6 +7,8 @@ annotate name = 0
 mask missing areas = 1
 area mask file  = ../../Data/0_Maskit_analyysialueet/Maski100/maski_umlr_eimeri_100m.tif
 
+post-processing list file = ../ppa_list_file.txt
+
 use groups = 1
 groups file = UML_07_MSP_mcki_ESS_L_abf_HM1_in/UML_groups_v2.txt
 
