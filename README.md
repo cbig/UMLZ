@@ -29,6 +29,10 @@ Codes in the names are interpreted as follows:
 + **HM2** = **H**ierarchical **m**ask 2 (Protected areas)
 + **abf** = Additive benefit function
 
+### Post-processing analysis
+
+Variant UML_08_MSP_mcki_ESS_L_abf_HM2 also has a more advanced [post-prcessing LSM](http://cbig.it.helsinki.fi/development/projects/zonation/wiki/LSM_with_pre-defined_units) feature enabled for demonstration purposes. Branch [ppa-lsm-all](https://github.com/cbig/UMLZ/tree/ppa-lsm-all) has this feature enabled for all variants 01-08.
+
 ### Contributors
 
 + Tuuli Toivonen
