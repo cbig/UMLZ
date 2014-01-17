@@ -7,7 +7,7 @@ annotate name = 0.1
 post-processing list file = ../ppa_list_file.txt
 
 mask missing areas = 1
-area mask file  = ../../Data/0_Maskit_analyysialueet/Maski100/maski_umlr_eimeri_100m.tif
+area mask file  = ../../Data/0_Maskit_analyysialueet/maski_umlr_eimeri_100m.tif
 
 [Community analysis settings]
 load similarity matrix = 1
