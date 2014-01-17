@@ -1,10 +1,8 @@
-library(zonator)
-library(rasterVis)
+source('R/umlz_setup.R')
 
-uml.project <- create_zproject('.')
 names(uml.project)
 
-all.variants <- lapply(names(uml.project), function(x) {get_variant(uml.project, x)})
+all.variants <- variants(uml.project)
 all.rank.rasters <- sapply(all.variants, function(x) {results(x)@rank})
 rank.rasters.stack <- stack(all.rank.rasters)
 
