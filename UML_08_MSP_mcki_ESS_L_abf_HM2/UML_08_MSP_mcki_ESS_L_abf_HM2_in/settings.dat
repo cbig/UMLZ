@@ -5,7 +5,7 @@ edge removal = 1
 annotate name = 0
 
 mask missing areas = 1
-area mask file = ../../Data/0_Maskit_analyysialueet/Maski100/maski_umlr_eimeri_100m.tif
+area mask file  = ../../Data/0_Maskit_analyysialueet/maski_umlr_eimeri_100m.tif
 
 use groups = 1
 groups file = UML_08_MSP_mcki_ESS_L_abf_HM2_in/UML_groups_v2.txt
