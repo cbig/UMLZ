@@ -16,7 +16,7 @@ for (variant in uml.variants) {
     # Make a copy of the origin shapfile unit layer
     units.sp <- ppa.units.sp
     
-    ppa.data <- merge(units.sp@data, results(variant)$ppa.lsm,
+    ppa.data <- merge(units.sp@data, ppa_lsm(results(variant)),
                       by.x="ZppaID", by.y="Unit")
     
     units.sp@data <- ppa.data[order(ppa.data$spID), ]
