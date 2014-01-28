@@ -19,7 +19,7 @@ use interactions = 1
 interaction file = UML_08_MSP_mcki_ESS_L_abf_HM2_in/interactions.txt
 
 use mask = 1
-mask file = ../../Data/4_Kaavoituskerrokset/Suojelu/Oiva_KaikkiSAKohteet_uml_100m.tif
+mask file = ../../Data/4_Kaavoituskerrokset/Suojelu/Oiva_KaikkiSAKohteet01_uml_100m.tif
 
 [Community analysis settings]
 load similarity matrix = 1
