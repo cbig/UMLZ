@@ -1,7 +1,5 @@
 ## Zonation UML-tutorial
 
-Readme test
-
 Simplified data and setups from UML (Uudenmaanliitto) analysis (Kuusterä 2015). 
 _The data and setups in this project are meant for training purposes and do not 
 represent a full real-life analysis_.
@@ -20,18 +18,18 @@ represent a full real-life analysis_.
 
 Codes in the names are interpreted as follows:
 
-| Code | Description |
-|------|-------------|
+| Code | Description                                  |
+|------|----------------------------------------------|
 | abf  | Cell removal rule: additive benefit function |
-| hab  | Input features: habitats |
-| spp  | Input features: species  |
-| wgt  | Varying weights                 |
-| cnd  | Condition layer                 |
-| blp  | Connectivity: boundary length penalty |
-| mtc  | Connectivity: matrix connectivity     |
-| iac  | Connectivity: interaction connectivity | 
-| hms  | Hierarchical mask |
-| ess  | Input features: ecosystem services | 
+| hab  | Input features: habitats                     |
+| spp  | Input features: species                      |
+| wgt  | Varying weights                              |
+| cnd  | Condition layer                              |
+| blp  | Connectivity: boundary length penalty        |
+| mtc  | Connectivity: matrix connectivity            |
+| iac  | Connectivity: interaction connectivity       | 
+| hms  | Hierarchical mask                            |
+| ess  | Input features: ecosystem services           | 
 
 #### Notes
 
