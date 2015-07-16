@@ -35,6 +35,9 @@ Codes in the names are interpreted as follows:
 
 #### Notes
 
+*Folder structure and file names:*
+
+
 *Analysis features:*
 - Groups are used from 01 ->.
 
