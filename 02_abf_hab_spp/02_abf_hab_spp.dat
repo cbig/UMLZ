@@ -5,7 +5,7 @@ edge removal = 1
 annotate name = 0
 
 mask missing areas = 1
-area mask file  = ../Data/00_masks/landmask.tif
+area mask file  = ../data/00_masks/landmask.tif
 
 use groups = 1
 groups file = 02_abf_hab_spp_groups.txt
