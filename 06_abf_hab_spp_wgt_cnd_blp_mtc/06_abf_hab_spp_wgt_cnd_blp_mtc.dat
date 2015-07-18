@@ -5,7 +5,7 @@ edge removal = 1
 annotate name = 0
 
 mask missing areas = 1
-area mask file  = ../Data/00_masks/landmask.tif
+area mask file  = ../data/00_masks/landmask.tif
 
 use groups = 1
 groups file = 06_abf_hab_spp_wgt_cnd_blp_mtc_groups.txt
@@ -15,5 +15,5 @@ condition file = 06_abf_hab_spp_wgt_cnd_blp_mtc_condition_layers.txt
 
 [Community analysis settings]
 load similarity matrix = 1
-connectivity similarity 06_abf_hab_spp_wgt_cnd_blp_mtc_connectivity_matrix.txt
+connectivity similarity matrix file = 06_abf_hab_spp_wgt_cnd_blp_mtc_connectivity_matrix.txt
 apply to connectivity = 1

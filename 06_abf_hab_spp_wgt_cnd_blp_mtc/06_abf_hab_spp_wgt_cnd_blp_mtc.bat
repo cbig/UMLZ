@@ -1,1 +1,1 @@
-call zig4.exe -r 06_abf_hab_spp_wgt_cnd_blp_mtc/06_abf_hab_spp_wgt_cnd_blp_mtc.dat 06_abf_hab_spp_wgt_cnd_blp_mtc/06_abf_hab_spp_wgt_cnd_blp_mtc.spp 06_abf_hab_spp_wgt_cnd_blp_mtc/06_abf_hab_spp_wgt_cnd_blp_mtc_out/06_abf_hab_spp_wgt_cnd_blp_mtc.txt 0.0 0 1.0 0  --grid-output-formats compressed-tif
+call zig4.exe -r 06_abf_hab_spp_wgt_cnd_blp_mtc.dat 06_abf_hab_spp_wgt_cnd_blp_mtc.spp 06_abf_hab_spp_wgt_cnd_blp_mtc_out/06_abf_hab_spp_wgt_cnd_blp_mtc.txt 0.0 0 1.0 0  --grid-output-formats compressed-tif
