@@ -1,8 +1,8 @@
-1 2 1 1 0.25 ../data/01_biodiversity_features/02_habitats/forest/birch_forest.tif
-1 2 1 1 0.25 ../data/01_biodiversity_features/02_habitats/forest/spruce_forest.tif
-1 2 1 1 0.25 ../data/01_biodiversity_features/02_habitats/forest/pine_forest.tif
-1 2 1 1 0.25 ../data/01_biodiversity_features/02_habitats/forest/other_deciduous_forest.tif
-1 2 1 1 0.25 ../data/01_biodiversity_features/02_habitats/peatlands/peatlands.tif
-1 2 1 1 0.25 ../data/01_biodiversity_features/02_habitats/wetlands/wetlands.tif
-1 2 1 1 0.25 ../data/01_biodiversity_features/02_habitats/agriculture/trad_rural_biotopes.tif
-1 2 1 1 0.25 ../data/01_biodiversity_features/02_habitats/agriculture/agricultural_land.tif
+1 1 1 1 0.25 ../data/01_biodiversity_features/02_habitats/forest/birch_forest.tif
+1 1 1 1 0.25 ../data/01_biodiversity_features/02_habitats/forest/spruce_forest.tif
+1 1 1 1 0.25 ../data/01_biodiversity_features/02_habitats/forest/pine_forest.tif
+1 1 1 1 0.25 ../data/01_biodiversity_features/02_habitats/forest/other_deciduous_forest.tif
+1 1 1 1 0.25 ../data/01_biodiversity_features/02_habitats/peatlands/peatlands.tif
+1 1 1 1 0.25 ../data/01_biodiversity_features/02_habitats/wetlands/wetlands.tif
+1 1 1 1 0.25 ../data/01_biodiversity_features/02_habitats/agriculture/trad_rural_biotopes.tif
+1 1 1 1 0.25 ../data/01_biodiversity_features/02_habitats/agriculture/agricultural_land.tif
