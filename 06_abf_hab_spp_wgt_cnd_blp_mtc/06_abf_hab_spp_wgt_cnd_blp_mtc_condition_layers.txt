@@ -1,1 +1,1 @@
-1 ../../Data/3_Kuntokerrokset/KaikkiMaankaytto/Corine_UML_MKCondition_100m.tif
+1 ../data/03_condition/all_land_use.tif
