@@ -1,1 +1,1 @@
-call zig4.exe -r UML_08_MSP_mcki_ESS_L_abf_HM2_in/settings.dat UML_08_MSP_mcki_ESS_L_abf_HM2_in/features_list.spp UML_08_MSP_mcki_ESS_L_abf_HM2_out/UML_08_MSP_mcki_ESS_L_abf_HM2.txt 0.0 0 1.0 0  --grid-output-formats compressed-tif
+call zig4.exe -r 09_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_ess.dat 09_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_ess.spp 09_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_ess_out/09_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_ess.txt 0.0 0 1.0 0  --grid-output-formats compressed-tif

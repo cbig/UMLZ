@@ -5,23 +5,21 @@ edge removal = 1
 annotate name = 0
 
 mask missing areas = 1
-area mask file  = ../../Data/0_Maskit_analyysialueet/maski_umlr_eimeri_100m.tif
+area mask file  = ../data/00_masks/landmask.tif
 
 use groups = 1
-groups file = UML_08_MSP_mcki_ESS_L_abf_HM2_in/UML_groups_v2.txt
-
-post-processing list file = ../ppa_list_file.txt
+groups file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_groups.txt
 
 use condition layer = 1
-condition file = UML_08_MSP_mcki_ESS_L_abf_HM2_in/cond_list.txt
+condition file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_condition_layers.txt
 
 use interactions = 1
-interaction file = UML_08_MSP_mcki_ESS_L_abf_HM2_in/interactions.txt
+interaction file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_interactions.txt
 
 use mask = 1
-mask file = ../../Data/4_Kaavoituskerrokset/Suojelu/Oiva_KaikkiSAKohteet01_uml_100m.tif
+mask file = ../data/04_regional_plans/protected_areas.tif
 
 [Community analysis settings]
 load similarity matrix = 1
-connectivity similarity matrix file = UML_08_MSP_mcki_ESS_L_abf_HM2_in/UML_conn_matrix.txt
+connectivity similarity matrix file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_connectivity_matrix.txt
 apply to connectivity = 1
