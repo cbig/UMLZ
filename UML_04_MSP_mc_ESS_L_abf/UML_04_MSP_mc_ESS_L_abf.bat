@@ -1,1 +1,0 @@
-call zig4.exe -r UML_04_MSP_mc_ESS_L_abf_in/settings.dat UML_04_MSP_mc_ESS_L_abf_in/features_list.spp UML_04_MSP_mc_ESS_L_abf_out/UML_04_MSP_mc_ESS_L_abf.txt 0.0 0 1.0 0  --grid-output-formats compressed-tif

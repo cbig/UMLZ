@@ -1,9 +1,7 @@
 runs:
-- "UML_01_M_abf/UML_01_M_abf.bat"
-- "UML_02_MSP_abf/UML_02_MSP_abf.bat"
-- "UML_03_MSP_mc_abf/UML_03_MSP_mc_abf.bat"
-- "UML_04_MSP_mc_ESS_L_abf/UML_04_MSP_mc_ESS_L_abf.bat"
-- "UML_05_MSP_mck_ESS_L_abf/UML_05_MSP_mck_ESS_L_abf.bat"
-- "UML_06_MSP_mcki_ESS_L_abf/UML_06_MSP_mcki_ESS_L_abf.bat"
-- "UML_07_MSP_mcki_ESS_L_abf_HM1/UML_07_MSP_mcki_ESS_L_abf_HM1.bat"
-- "UML_08_MSP_mcki_ESS_L_abf_HM2/UML_08_MSP_mcki_ESS_L_abf_HM2.bat"
+- "01_abf_hab/01_abf_hab.bat"
+- "02_abf_hab_spp/02_abf_hab_spp.bat"
+- "03_abf_hab_spp_wgt/03_abf_hab_spp_wgt.bat"
+- "04_abf_hab_spp_wgt_cnd/04_abf_hab_spp_wgt_cnd.bat"
+- "05_abf_hab_spp_wgt_cnd_blp/05_abf_hab_spp_wgt_cnd_blp.bat"
+

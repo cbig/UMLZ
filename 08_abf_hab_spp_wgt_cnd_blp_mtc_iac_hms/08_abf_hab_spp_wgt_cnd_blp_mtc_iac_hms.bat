@@ -1,0 +1,1 @@
+call zig4.exe -r 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms.dat 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms.spp 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_out/08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms.txt 0.0 0 1.0 0  --grid-output-formats compressed-tif
