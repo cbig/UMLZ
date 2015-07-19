@@ -1,1 +1,1 @@
-LSM ../../Data/0_Maskit_analyysialueet/Maski100/maski_uml_kunnat_100m.tif 0 -1 0
+LSM ../../Data/5_muut/uusimaa_kunnat.tif 0 -1 0
