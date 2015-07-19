@@ -8,18 +8,18 @@ mask missing areas = 1
 area mask file  = ../data/00_masks/landmask.tif
 
 use groups = 1
-groups file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_groups.txt
+groups file = 09_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_ess.txt
 
 use condition layer = 1
-condition file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_condition_layers.txt
+condition file = 09_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_ess_condition_layers.txt
 
 use interactions = 1
-interaction file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_interactions.txt
+interaction file = 09_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_ess_interactions.txt
 
 use mask = 1
 mask file = ../data/04_regional_plans/protected_areas.tif
 
 [Community analysis settings]
 load similarity matrix = 1
-connectivity similarity matrix file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_connectivity_matrix.txt
+connectivity similarity matrix file = 09_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_ess_connectivity_matrix.txt
 apply to connectivity = 1
