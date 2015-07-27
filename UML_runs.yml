@@ -4,4 +4,7 @@ runs:
 - "03_abf_hab_spp_wgt/03_abf_hab_spp_wgt.bat"
 - "04_abf_hab_spp_wgt_cnd/04_abf_hab_spp_wgt_cnd.bat"
 - "05_abf_hab_spp_wgt_cnd_blp/05_abf_hab_spp_wgt_cnd_blp.bat"
-
+- "06_abf_hab_spp_wgt_cnd_blp_mtc/06_abf_hab_spp_wgt_cnd_blp_mtc.bat"
+- "07_abf_hab_spp_wgt_cnd_blp_mtc_iac/07_abf_hab_spp_wgt_cnd_blp_mtc_iac.bat"
+- "08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms/08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms.bat"
+- "09_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_ess/09_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_ess.bat"
