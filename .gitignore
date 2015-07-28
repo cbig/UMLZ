@@ -3,3 +3,5 @@ results_*.yaml
 *.Rproj
 *.html
 .Rhistory
+*.aux.xml
+
