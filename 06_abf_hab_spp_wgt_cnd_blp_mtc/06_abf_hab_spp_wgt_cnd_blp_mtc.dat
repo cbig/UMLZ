@@ -13,6 +13,8 @@ groups file = 06_abf_hab_spp_wgt_cnd_blp_mtc_groups.txt
 use condition layer = 1
 condition file = 06_abf_hab_spp_wgt_cnd_blp_mtc_condition_layers.txt
 
+BLP = 0.01
+
 [Community analysis settings]
 load similarity matrix = 1
 connectivity similarity matrix file = 06_abf_hab_spp_wgt_cnd_blp_mtc_connectivity_matrix.txt

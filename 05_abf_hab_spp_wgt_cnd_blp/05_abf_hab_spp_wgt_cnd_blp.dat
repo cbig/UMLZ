@@ -13,4 +13,4 @@ groups file = 05_abf_hab_spp_wgt_cnd_blp_groups.txt
 use condition layer = 1
 condition file = 05_abf_hab_spp_wgt_cnd_blp_condition_layers.txt
 
-BLP = 0.1
+BLP = 0.01

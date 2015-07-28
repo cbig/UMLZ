@@ -13,6 +13,8 @@ groups file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_groups.txt
 use condition layer = 1
 condition file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_condition_layers.txt
 
+BLP = 0.01
+
 use interactions = 1
 interaction file = 08_abf_hab_spp_wgt_cnd_blp_mtc_iac_hms_interactions.txt
 
