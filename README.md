@@ -1,10 +1,11 @@
 ## Zonation UML-tutorial
 
-*Version: 0.2*
+*Version: 1.0*
 
 Simplified data and setups from UML (Uudenmaanliitto) analysis (Kuusterä 2015). 
 _The data and setups in this project are meant for training purposes and do not 
-represent a full real-life analysis_.
+represent a full real-life analysis_. Data are described in more detail in
+READMEs in each data subfolder.
 
 ## Variants
 
@@ -33,29 +34,12 @@ Codes in the names are interpreted as follows:
 | hms  | Hierarchical mask                            |
 | ess  | Input features: ecosystem services           | 
 
-#### Notes
-
-*Folder structure and file names:*
-
-*Analysis features:*
-- Groups are used from 01 ->.
-
-*Tasks:*
-- Ask participants to add spp on top of hab in 02.
-- Ask participants to add weights in 03.
-
-### Post-processing analysis
-
-Variant UML_08_MSP_mcki_ESS_L_abf_HM2 also has a more advanced [post-prcessing LSM](http://cbig.it.helsinki.fi/development/projects/zonation/wiki/LSM_with_pre-defined_units) 
-feature enabled for demonstration purposes. Branch 
-[ppa-lsm-all](https://github.com/cbig/UMLZ/tree/ppa-lsm-all) has this feature 
-enabled for all variants 01-08.
-
 ### Contributors
 
-+ Tuuli Toivonen
++ Tuuli Toivonen <tuuli.toivonen@helsinki.fi>
 + Joona Lehtomäki <joona.lehtomaki@gmail.com>
 + Peter Kullberg <peter.kullberg@helsinki.fi>
++ Atte Moilanen <atte.moilanen@helsinki.fi>
 
 ### References
 
