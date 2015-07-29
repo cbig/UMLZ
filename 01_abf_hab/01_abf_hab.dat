@@ -6,6 +6,3 @@ annotate name = 0
 
 mask missing areas = 1
 area mask file  = ../data/00_masks/landmask.tif
-
-use groups = 1
-groups file = 01_abf_hab_groups.txt
