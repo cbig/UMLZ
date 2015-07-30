@@ -22,8 +22,8 @@ below).
 2. Original 25 meter data was aggregated to 100 meter pixels in AgrGIS using
 AGGREGATE (cell factor 4, SUM).
 
-| ORIGINAL CORINE VALUES | VALUE IN THE CONDITION RASTER |
-|------------------------|-------------------------------|
+| ORIGINAL CORINE VALUES | DESCRIPTION | VALUE IN THE CONDITION RASTER |
+|------------------------|-------------|-------------------------------|
 | 1.1.1 | Continuous urban fabric | 0.1 |
 | 1.1.2 | Discontinuous urban fabric | 0.2 |
 | 1.2.1 | Industrial or commercial units | 0.1 |
