@@ -3,7 +3,7 @@ By GBIG / Tuuli Toivonen 2013-10-10, Edited 2015-07-27
 # protected_areas.tif
 ## Description
 An example data identifying areas belonging to conservation programs in the
-Helsinki-Uusimaa region.
+Helsinki-Uusimaa region.  
 **Use restrictions:** Use only for Zonation training purposes.  
 
 Source Data: Polygon data on protected area schemes  
