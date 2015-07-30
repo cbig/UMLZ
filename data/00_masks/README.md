@@ -15,7 +15,7 @@ Pixel values:
   0 = sea  
 	1 = land
 
-## Production:
+## Production
 `landmask.tif` has been created using Corine Landcover data. All pixels having any
 land in the original 25 meter Corine data were classified as land.
 
