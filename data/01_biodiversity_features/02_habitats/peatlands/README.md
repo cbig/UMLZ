@@ -1,4 +1,3 @@
-by CBIG/TT/JL Created 16.7.2015, edited 27.7.2015
 By GBIG / Tuuli Toivonen & Joona Lehtomäki 2015-07-16, Edited 2015-07-27
 
 # peatlands.tif
