@@ -1,21 +1,24 @@
-by Tuuli 10.10.2013
+By GBIG / Tuuli Toivonen 2013-10-10, Edited 2015-07-27
 
-Prosessointien lähtöaineistona on  Corine 2006 YKJ-koordinaatistossa, ladattu Paitulista 8.10.2013
-Ennen käyttöä aineisto projisoitiin ArcGISissä EUREF-koordinaatistoon käyttäen KKJ to Euref transformaatiota ja Nearest neighbour resamplea.
+# wetlands.tif
+## Description:
+Data delineating wetland areas in the Helsinki-Uusimaa region.
 
+Source Data: Corine Land Cover 25 meter raster  
+Source Data Provider: Finnish Environment Institute, SYKE  
+Resolution: 100 m  
+Format: GeoTIFF  
+CRS: ETRS89 / ETRS-TM35FIN (EPSG:3067)  
+Pixel values:  
+ The higher the value in the cell, the more wetland there is.  
 
+## Production
 
-Kosteikot = Corine_kosteikot_uml_100m.tif
-
-1. Kosteikot erotettiin muusta maankäytöstä Reclassifyllä: 
-Corinen kosteikkoluokat (36, 37, 40, 41) luokiteltiin arvolle 1, muut arvolle NoData. 
-
-
-
-2. Aineisto aggregoitiin 100 metrin resoluutiolle
-
-Data aggregoitiin ArcGISin Aggregate-komennolla, cell factorilla 4, snapaten maskigridiin. Aggeroitujen pikselien arvoista laskettiin SUM. 
+1. We used Reclassify in ArcGIS to classify all wetland pixels to 1 and others
+to NoData. Corine classes 4111, 4112, 4211 and 4212 were classified as wetlands.  
+2. Original 25 meter data was aggregated to 100 meter pixels in AgrGIS using
+AGGREGATE (cell factor 4, SUM).
 
 ## Provenance information
 
-- `Corine_wetlands_100m.tif` compressed and renamed to `wetlands.tif` (2015-07-16) 
+- `Corine_wetlands_100m.tif` compressed and renamed to `wetlands.tif` (2015-07-16)
