@@ -1,6 +1,6 @@
 ## Zonation UML-tutorial
 
-*Version: 1.0*
+*Version: 1.1*
 
 Simplified data and setups from UML (Uudenmaanliitto) analysis (Kuusterä 2015). 
 _The data and setups in this project are meant for training purposes and do not 
