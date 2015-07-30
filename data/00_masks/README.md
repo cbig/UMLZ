@@ -16,8 +16,9 @@ Pixel values:
 	1 = land
 
 ## Production:
-landmask.tif has been created using Corine Landcover data. All pixels having any
+`landmask.tif` has been created using Corine Landcover data. All pixels having any
 land in the original 25 meter Corine data were classified as land.
+
 1. Corine Land Cover data was projected to EUREF coordinate system.
 2. Sea areas were extracted from Corine Land Cover (pixel values = 44) and coded
 as 0 and others as 1.
