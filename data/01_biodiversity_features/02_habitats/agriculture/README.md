@@ -8,7 +8,8 @@ indicate higher value for biodiversity.
 Source Data: Corine Land Cover 25 meter raster  
 Source Data Provider: Finnish Environment Institute, SYKE  
 Resolution: 100 m
-Format: GeoTIFF  
+Format: GeoTIFF
+CRS: ETRS89 / ETRS-TM35FIN (EPSG:3067)   
 Pixel values:  
 	0 = no agricultural land  
 	every other value =  agricultural land, the higher the value, the higher the
