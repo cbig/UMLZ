@@ -44,5 +44,5 @@ Codes in the names are interpreted as follows:
 ### References
 
 Kuusterä, J., S. Aalto, A. Moilanen, T. Toivonen, and J. Lehtomäki. 2015. 
-Uudenmaan viherrakenteen analysointi Zonation-menetelmällä. Helsinki. (In Finnish, includes an abstract in English) Available from 
+Uudenmaan viherrakenteen analysointi Zonation-menetelmällä. Helsinki. (In Finnish) Available from 
 http://www.uudenmaanliitto.fi/files/15491/Uudenmaan_viherrakenteen_analysointi_Zonation-menetelmalla_E145-2015.pdf.
